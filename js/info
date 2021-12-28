@@ -1,0 +1,26 @@
+CNPJ ou CPF Cliente Debitado: 06207421000174 
+PAGFOR
+	letra OP
+	verificar CPF CNPJ tabela pagfor DEBITADO
+
+MAFRA
+Nome Cliente Debitado: MAPFRE SEGUROS GERAIS SA 
+
+
+
+STR26
+TUdo igual, olha STR26
+mesma logica de separacao E I S
+
+Ag100 é OP (pagfor) agencia debitada0100
+
+
+
+
+
+
+
+
+
+
+
